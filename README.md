@@ -146,6 +146,12 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
     <td><a href="https://classroom.github.com/a/GFkBfiog">Link</a></td>
     <td>18/02/2026</td>
+      <tr>
+    <td>2-3</td>
+    <td>Sumador/Restador</td>
+    <td><a href="/labs/02_lab02/README.md">lab02</a></td>
+    <td><a href="">Link</a></td>
+    <td>18/02/2026</td>
   </tr>
 
 
