@@ -145,18 +145,20 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>Sumador de 1 y 4 bits</td>
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
     <td><a href="https://classroom.github.com/a/GFkBfiog">Link</a></td>
-    <td>18/02/2026</td>
+    <td>04/03/2026</td>
       <tr>
     <td>3-4</td>
     <td>Sumador/Restador</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
     <td><a href="https://classroom.github.com/a/Px-uYaj2">Link</a></td>
-    <td>04/03/2026</td>
+    <td>11/03/2026</td>
+          <tr>
+    <td>5-6</td>
+    <td>ASM y Decodificador</td>
+    <td><a href="/labs/03_lab03/README.md">lab03</a></td>
+    <td><a href="https://classroom.github.com/a/x5nzMBWr">Link</a></td>
+    <td>25/03/2026</td>
   </tr>
-
-
-
-
 </table>
 
 
