@@ -161,7 +161,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
   </tr>
   <tr>
     <td>7-8</td>
-    <td>ASM y Decodificador</td>
+    <td>ASM y Multiplicador</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
     <td><a href="">Link</a></td>
     <td>08/04/2026</td>
