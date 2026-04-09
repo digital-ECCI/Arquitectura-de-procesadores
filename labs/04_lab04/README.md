@@ -56,17 +56,15 @@ La lógica secuencial usa elementos de almacenamiento (como flip-flops) para man
 
 1. Clone el respositorio de entrega, en Github Classroom.
 
-2. Revise y entienda la descripción de hardware correspondiente al multiplicador de 3 bits en el archivo ```mult.v``` en la carpeta ```src```.
+2. Realice la descripción de hardware correspondiente al multiplicador de 4 bits en el archivo ```mult.v``` en la carpeta ```src```.
 
 3. Cree el testbench para realizar la respectiva simulación.
 
 4. Una vez corroboré el comportamiento esperado en simulación, cree un proyecto en Quartus y realice la respectiva implementación.
 
-5. Modifique el proyecto para crear un multiplicador de 4 bits.
+5. Integre la descripción de hardware necesaria para poder visualizar el resultado en los 7 segmentos de la tarjeta de desarrollo.
 
-6. Integre la descripción de hardware necesaria para poder visualizar el resultado en los 7 segmentos de la tarjeta de desarrollo.
-
-7. Empiece la contrucción de la ALU con las operaciones que tiene a la fecha.
+6. Empiece la contrucción de la ALU con las operaciones que tiene a la fecha.
 
 
 ## 4. Descripción del HDL base (en Github Classroom)
