@@ -163,8 +163,8 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>7-8</td>
     <td>ASM y Multiplicador</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
-    <td><a href="">Link</a></td>
-    <td>08/04/2026</td>
+    <td><a href="https://classroom.github.com/a/C70Lm6S5">Link</a></td>
+    <td>22/04/2026</td>
   </tr>
 </table>
 
