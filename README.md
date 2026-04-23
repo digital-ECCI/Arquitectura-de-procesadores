@@ -166,6 +166,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/C70Lm6S5">Link</a></td>
     <td>22/04/2026</td>
   </tr>
+    <tr>
+    <td>11-12</td>
+    <td>ALU - Banco Registro - UART</td>
+    <td><a href="/labs/05_lab05/README.md">lab05</a></td>
+    <td><a href="">Link</a></td>
+    <td>(29 - 30)/04/2026</td>
+  </tr>
 </table>
 
 
