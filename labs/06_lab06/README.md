@@ -316,3 +316,20 @@ El toolchain RISC-V ```riscv32-unknown-elf-gcc``` es un conjunto de herramientas
     2. Seleccionar `Netlist Viewers`.
 
     3. Elegir `RTL Viewer`.
+
+
+
+## Actividad.
+
+1. Modifique el main.c, de forma que con 4 switches de la tarjeta de desarrollo pueda encender y apagar 4 LED de la misma (Mediante el procesador y codigo C).
+
+
+2. Emplee el módulo UART conectado al procesador PicoSoC para recibir comandos enviados desde Putty, permitiendo así el control y encendido de los LEDs en la tarjeta de desarrollo (Mediante el procesador y codigo C).
+
+## Entregables
+
+1. Documentación del ítem anterior en su respectivo archivo ```README.md```.
+
+2. Realice la respectiva simulaciones y muestre evidencias en su archivo ```README.md```.
+
+3. Realice la implementación descrita en la sección de actividades, sustente, tome evidencia y consigne en la documentación. 
