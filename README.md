@@ -177,7 +177,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>14-16</td>
     <td>Procesador: PicoSoC</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/JVg6Yy3O">Link</a></td>
     <td>(20 - 21)/05/2026</td>
   </tr>
 </table>
